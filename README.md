@@ -1,6 +1,5 @@
-# Hi there, I'm Krombopulos Eddie from dimension C-137! 👏
+![](https://github.com/krombopulos-eddie/krombopulos-eddie/blob/main/banner.png)
 
-[![MasterHead](your image link)](your GitHub link)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=krombopulos-eddie&show_icons=true&theme=codeSTACKr" />
 
