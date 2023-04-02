@@ -3,7 +3,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=krombopulos-eddie&show_icons=true&theme=codeSTACKr" />
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krombopulos-eddie&layout=compact&theme=codeSTACKr" />
 
 
 
