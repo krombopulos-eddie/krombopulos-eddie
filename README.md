@@ -1,14 +1,14 @@
 ![](https://github.com/krombopulos-eddie/krombopulos-eddie/blob/main/banner.png)
-
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>          
+          
  
 <h2 align="center">Technology Stack </h2>
 
-<p align="center">
-<i class="devicon-github-original-wordmark" width="40" height="40"></i>          
+<p align="center">      
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -21,6 +21,7 @@
 </p>
 
 
-
-  ![](https://github.com/krombopulos-eddie/krombopulos-eddie/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+<img src="https://github.com/krombopulos-eddie/krombopulos-eddie/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
