@@ -17,8 +17,8 @@
 
 
 <p align="center">
-<img align="left" height="400" width="400" src="https://github-readme-stats-ruby-one.vercel.app//api?username=krombopulos-eddie&show_icons=true&theme=codeSTACKr" />
-<img align="right" height="400" width="400" src="/https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=krombopulos-eddie&theme=codeSTACKr&layout=compact" />
+<img align="left" height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=krombopulos-eddie&show_icons=true&theme=codeSTACKr" />
+<img align="right" height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krombopulos-eddie&theme=codeSTACKr&layout=compact" />
 </p>
 
 
